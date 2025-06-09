@@ -47,13 +47,13 @@ Program ini menerapkan **tiga metode numerik** sesuai dengan buku *Numerical Met
     - Visualisasi plot otomatis menggunakan gnuplot
 
 ## Struktur Program
-- Runge-Kutta 4th Order: untuk solusi ODE dv/dt.
+- Runge-Kutta 4th Order untuk solusi ODE dv/dt.
 
-- Polynomial Regression: fitting v(t) → v_fit(t).
+- Polynomial Regression untuk fitting v(t) → v_fit(t).
 
-- Trapezoidal Rule: menghitung total jarak tempuh.
+- Trapezoidal Rule untuk menghitung total jarak tempuh.
 
-- gnuplot: visualisasi grafik v(t) vs waktu.
+- gnuplot sebagai visualisasi grafik v(t) vs waktu.
 
 ## Referensi
 - Steven C. Chapra & Raymond P. Canale, Numerical Methods for Engineers, 7th Edition.
