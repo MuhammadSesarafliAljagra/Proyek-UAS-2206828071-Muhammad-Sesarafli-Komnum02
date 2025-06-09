@@ -57,6 +57,11 @@ Program ini menerapkan **tiga metode numerik** sesuai dengan buku *Numerical Met
 
 ## Referensi
 - Steven C. Chapra & Raymond P. Canale, Numerical Methods for Engineers, 7th Edition.
+- J. C. Butcher, Numerical Methods for Ordinary Differential Equations, 2nd ed., Wiley, 2008.
+- R. L. Burden and J. D. Faires, Numerical Analysis, 9th ed., Brooks/Cole Cengage Learning, 2011.
+- D. C. Montgomery, E. A. Peck, and G. G. Vining, Introduction to Linear Regression Analysis, 5th ed., Wiley, 2012.
+
+
 
 ## Link Video Demonstrasi Youtube
 [Klik untuk Menonton Vidio](https://youtu.be/7ehESKATO-4)
