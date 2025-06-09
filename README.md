@@ -59,3 +59,5 @@ Program ini menerapkan **tiga metode numerik** sesuai dengan buku *Numerical Met
 - Steven C. Chapra & Raymond P. Canale, Numerical Methods for Engineers, 7th Edition.
 
 ## Link Video Demonstrasi Youtube
+[Klik untuk melihat Vidio]([https://www.google.com](https://youtu.be/7ehESKATO-4))
+
